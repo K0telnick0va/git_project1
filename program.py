@@ -3,6 +3,7 @@ def main():
     print('And I change it every day')
     print('#')
     print('UFO came and added this line')
+    print('FINAL')
 
 if __name__ == '__main__':
     main()
